@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Harry Potter (Warner Bro's) 
 Venom (Marvel Entertainment)
 Titanic (Paramount Pictures)
@@ -9,4 +10,17 @@ Mockingjay (Lions Gate)
 Divergent (Redwagon Entertainment)
 Insurgent (Redwagon Entertainment)
 Allegiant (Redwagon Entertainment)
+=======
+Harry Potter (2001) 
+Venom (2018)
+Titanic (1997)
+<<<<<<< HEAD
+The Hunger Games (2012)
+Catching Fire (2013)
+Mockingjay (2014)
+=======
+Divergent (2014)
+Insurgent (2015)
+Allegiant (2016)
+>>>>>>> 9de5da00bac01fdd00a8f50c91d483ce825e1d45
 >>>>>>> 8967a6d093b0b496f59bf681de6231aae594900d
