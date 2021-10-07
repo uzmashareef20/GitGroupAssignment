@@ -1,6 +1,12 @@
 Harry Potter 
 Venom 
 Titanic
+<<<<<<< HEAD
 The Hunger Games
 Catching Fire
 Mockingjay
+=======
+Divergent
+Insurgent
+Allegiant
+>>>>>>> 8967a6d093b0b496f59bf681de6231aae594900d
